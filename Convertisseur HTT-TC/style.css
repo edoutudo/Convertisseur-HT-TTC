@@ -1,0 +1,35 @@
+body{
+	background: url(css/thumb.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 100%;
+	text-align: center;
+}
+
+form{
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	font-family: 'Teko', sans-serif;
+	border: 3px solid black;
+	border-radius: 6px;
+	display: inline-block;
+	padding: 10px;
+	background-color: rgba(255, 255, 255, 0.2);
+}
+
+label{
+	color: #FFF;
+	text-decoration: none;
+	font-family: cursive;
+	font-size: 18px;
+}
+
+.jumbotron{
+	background-color: rgba(92, 92, 92, 0.3);
+	border-radius: 200px;
+	border: 3px solid black;
+	color: #FFF;
+}
